@@ -15,8 +15,6 @@
             "country": "Mexico",
             "link": "https://www.youtube.com/watch?v=d1vAKKuZp0M&t=108s",
             "hz": 60
-     }
-    ]
         },
         {
             "user": "Landres",
@@ -26,5 +24,5 @@
             "link": "https://youtu.be/M6OkjnwjFOk?si=2WaD-gwj2icR-djw",
             "hz": 240
         }
-
-
+    ]
+}
