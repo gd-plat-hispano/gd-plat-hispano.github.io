@@ -7,5 +7,15 @@
     "verifier": "Rylet",
     "verification": "https://www.youtube.com/watch?v=dGDngmPN1NM",
     "password": "gratis",
-    "records": []
+    "records": [
+        {
+            "user": "AzuRurill184",
+            "device": "PC",
+            "time": "0:02:59.866",
+            "country": "Perú",
+            "link": "https://youtu.be/-qJzHHCYHHU",
+            "hz": 60
+        }
+    ]
+}
 }
