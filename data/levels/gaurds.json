@@ -7,5 +7,14 @@
     "verifier": "GordoBananaGuy",
     "verification": "https://www.youtube.com/watch?v=qzoGVOnBhUA",
     "password": "gratis",
-    "records": []
+    "records": [
+          {
+            "user": "AzuRurill184",
+            "device": "PC",
+            "time": "07:45:11.885",
+            "country": "Peru",
+            "link": "https://youtu.be/Q0x9OQAao70",
+            "hz": 60
+        }
+    ]
 }
