@@ -7,5 +7,14 @@
     "verifier": "Dxshing",
     "verification": "https://www.youtube.com/watch?v=-LP8TLT53rs",
     "password": "gratis",
-    "records": []
+    "records": [
+        {
+            "user": "Pepesito",
+            "device": "PC",
+            "time": "11:52.520",
+            "country": "España",
+            "link": "https://www.youtube.com/watch?v=yerQz51FAj8",
+            "hz": 360
+        }
+    ]
 }
