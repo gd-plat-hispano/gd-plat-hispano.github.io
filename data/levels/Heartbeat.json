@@ -7,5 +7,14 @@
     "verifier": "Adanz9",
     "verification": "https://www.youtube.com/watch?v=y8aFQiyj3Is",
     "password": "gratis",
-    "records": []
+    "records": [
+        {
+            "user": "AzuRurill184",
+            "device": "PC",
+            "time": "01:17.545",
+            "country": "Perú",
+            "link": "https://www.mediafire.com/file/k3iuq8jjfedis4s/heartbeat.mp4/file",
+            "hz": 60
+        }
+    ]
 }
