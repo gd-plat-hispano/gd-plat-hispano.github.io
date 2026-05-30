@@ -7,5 +7,15 @@
     "verifier": "DrakXD109",
     "verification": "https://www.youtube.com/watch?v=OnheQa8LjaI",
     "password": "gratos",
-    "records": []
+    "records": [
+        {
+            "user": "aitortilla",
+            "device": "PC",
+            "time": "34:58.670",
+            "country": "España",
+            "link": "https://youtu.be/hwm9dUAlOA4?si=ARI9QqMx7SM9AuJY",
+            "hz": 100
+        }
+    ]
 }
+
