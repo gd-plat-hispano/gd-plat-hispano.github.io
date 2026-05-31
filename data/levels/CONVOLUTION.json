@@ -8,6 +8,30 @@
     "verification": "https://www.youtube.com/watch?v=kDoX0x0BQwo",
     "password": "gratis",
     "records": [
+        {
+            "user": "Lutz",
+            "device": "PC",
+            "time": "01:43.287",
+            "country": "Venezuela",
+            "link": "https://www.youtube.com/watch?v=kDoX0x0BQwo",
+            "hz": 360
+        },
+        {
+            "user": "ungafo",
+            "device": "PC",
+            "time": "01:31.745",
+            "country": "Venezuela",
+            "link": "https://youtu.be/7o2iPPfZUqY?si=dO4e0jiCjrVyEgr9",
+            "hz": 360
+        },
+        {
+            "user": "Ezequiel",
+            "device": "PC",
+            "time": "01:29.270",
+            "country": "Peru",
+            "link": "https://youtu.be/qVuD9dXL-bU?si=f_h7VsSmm-fpjR90",
+            "hz": 360
+        },
           {
             "user": "Landres",
             "device": "PC",
