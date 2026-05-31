@@ -199,7 +199,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
         allLevels.forEach((level, index) => {
             const rankPosition = index + 1;
-            const levelPoints = Math.max(10, 250 - (index * 15)); 
+            const pointsTable = [200,193,186,180,174,168,163,157,152,147,146,136,131,127,122,118,114,105,106,102,98,94,91,88,84,81,78,75,73,70,67,65,62,60,58,56,54,52,50,48,46,45,43,41,40,39,37,36,35,34,33,32,31,30,29,28,28,27,26,26,25,24,24,23,23,22,22,22,21,21,20,20,20,19,19,19,19,18,18,18,17,17,17,17,16,16,16,15,15,14,14,13,13,13,12,11,11,10,10,9];
+            const levelPoints = pointsTable[index] ?? 0; 
 
             level.records.forEach(rec => {
                 const country = rec.country ? rec.country.trim() : "Desconocido";
@@ -304,7 +305,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
         levels.forEach((level) => {
             const realRank = allLevels.findIndex(l => l.id === level.id) + 1;
-            const levelPoints = Math.max(10, 250 - ((realRank - 1) * 15));
+            const pointsTable = [200,193,186,180,174,168,163,157,152,147,146,136,131,127,122,118,114,105,106,102,98,94,91,88,84,81,78,75,73,70,67,65,62,60,58,56,54,52,50,48,46,45,43,41,40,39,37,36,35,34,33,32,31,30,29,28,28,27,26,26,25,24,24,23,23,22,22,22,21,21,20,20,20,19,19,19,19,18,18,18,17,17,17,17,16,16,16,15,15,14,14,13,13,13,12,11,11,10,10,9];
+            const levelPoints = pointsTable[realRank - 1] ?? 0;
             const div = document.createElement('div');
             div.className = 'level-item';
             if (currentLevel && level.id === currentLevel.id) div.classList.add('selected');
