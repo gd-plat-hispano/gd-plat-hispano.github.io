@@ -9,6 +9,14 @@
     "password": "gratis",
     "records": [
         {
+            "user": "Mikoshi",
+            "device": "PC",
+            "time": "13:19.354",
+            "country": "Mexico",
+            "link": "https://www.youtube.com/watch?v=jD5BNFHF3Z8",
+            "hz": 360
+        },
+        {
             "user": "ungafo",
             "device": "PC",
             "time": "11:40.395",
