@@ -9,14 +9,6 @@
     "password": "gratis",
     "records": [
         {
-            "user": "Shroomy",
-            "device": "PC",
-            "time": "22:58.591",
-            "country": "Chile",
-            "link": "https://www.youtube.com/watch?v=ZgVoNfmEaxs",
-            "hz": 240
-        },
-        {
             "user": "Revnotruv",
             "device": "PC",
             "time": "10:02.122",
