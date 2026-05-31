@@ -9,6 +9,14 @@
     "password": "gratis",
     "records": [
         {
+            "user": "ungafo",
+            "device": "PC",
+            "time": "02:15.612",
+            "country": "Venezuela",
+            "link": "https://www.youtube.com/watch?v=K9fUg2ZlkMM",
+            "hz": 360
+        },
+        {
             "user": "Ezequiel",
             "device": "PC",
             "time": "02:15.612",
