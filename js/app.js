@@ -420,6 +420,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function renderLeaderboardView() {
+        mainContent.classList.add('view-fullpage');
         if (activeView !== 'leaderboard') return;
         
         const selectedCountry = document.getElementById('country-filter').value;
@@ -568,6 +569,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function renderInfoView() {
+        mainContent.classList.add('view-fullpage');
         if (activeView !== 'info') return;
 
         let contentHtml = `
@@ -720,6 +722,7 @@ document.addEventListener('DOMContentLoaded', () => {
             navLeaderboard.classList.remove('active');
             navInfo.classList.remove('active');
             navLista.classList.add('active');
+            mainContent.classList.remove('view-fullpage');
             mainContent.innerHTML = `<aside class="sidebar-list"><div class="list-title">Niveles Oficiales</div><div class="levels-container" id="levels-list"></div></aside><section class="detail-container" id="level-detail-panel"></section>`;
             window.levelsListContainer = document.getElementById('levels-list');
             window.detailPanel = document.getElementById('level-detail-panel');
