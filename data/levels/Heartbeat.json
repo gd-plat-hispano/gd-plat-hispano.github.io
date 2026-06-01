@@ -15,6 +15,14 @@
             "country": "Peru",
             "link": "https://www.mediafire.com/file/k3iuq8jjfedis4s/heartbeat.mp4/file",
             "hz": 60
+        },
+        {
+            "user": "Landres",
+            "device": "PC",
+            "time": "01:16.016",
+            "country": "Mexico",
+            "link": "https://youtu.be/xAv2U1Wj9GI?si=enLzxaST3JERJwsD",
+            "hz": 240
         }
     ]
 }
