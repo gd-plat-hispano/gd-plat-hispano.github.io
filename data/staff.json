@@ -5,6 +5,7 @@
         "bio": "Desarrollador principal y entusiasta de los niveles de plataforma en Geometry Dash."
     },
     "staff_members": [
+        { "name": "Hanky", "role": "Creador del codigo de la pagina", "color": "#2168b3" },
         { "name": "Landres", "role": "Moderador", "color": "#2168b3" },
         { "name": "Pepesito", "role": "Moderador", "color": "#2168b3" },
         { "name": "Krinsi", "role": "Moderador", "color": "#2168b3" },
