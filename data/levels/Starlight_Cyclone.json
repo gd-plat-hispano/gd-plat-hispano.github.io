@@ -7,5 +7,14 @@
     "verifier": "ungafo",
     "verification": "https://www.youtube.com/watch?v=VsQN1_oo_54",
     "password": "cgratis",
-    "records": []
+    "records": [
+        {
+            "user": "Swaam",
+            "device": "PC",
+            "time": "3:29.899",
+            "country": "Chile",
+            "link": "https://www.youtube.com/watch?v=8yUR7elzXiU",
+            "hz": 60
+        }
+    ]
 }
