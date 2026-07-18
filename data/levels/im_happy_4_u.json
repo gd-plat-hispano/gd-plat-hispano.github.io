@@ -7,5 +7,14 @@
     "verifier": "Candy",
     "verification": "https://www.youtube.com/watch?v=_hgZK6Li1Kc",
     "password": "gratis",
-    "records": []
+    "records": [
+              {
+            "user": "ungafo",
+            "device": "PC",
+            "time": "03:21.258",
+            "country": "Argentina",
+            "link": "https://www.youtube.com/watch?v=_hgZK6Li1Kc",
+            "hz": 1
+        }
+    ]
 }
