@@ -7,5 +7,14 @@
     "verifier": "Pepesito",
     "verification": "https://www.youtube.com/watch?v=3lXBC4ZYvZg",
     "password": "gratis",
-    "records": []
+    "records": [
+        {
+            "user": "Pepesito",
+            "device": "PC",
+            "time": "08:28.350",
+            "country": "España",
+            "link": "https://www.youtube.com/watch?v=3lXBC4ZYvZg",
+            "hz": 240
+        }
+    ]
 }
