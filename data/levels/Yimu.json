@@ -7,5 +7,14 @@
     "verifier": "Lutz127",
     "verification": "https://www.youtube.com/watch?v=EKyhlg9U7yI",
     "password": "gratis",
-    "records": []
+    "records": [
+        {
+            "user": "Lutz",
+            "device": "PC",
+            "time": "55:28.454",
+            "country": "Venezuela",
+            "link": "https://www.youtube.com/watch?v=EKyhlg9U7yI",
+            "hz": 240
+        }
+    ]
 }
