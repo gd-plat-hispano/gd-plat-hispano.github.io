@@ -2,12 +2,20 @@
     "id": 115881666,
     "name": "Rabbit Hole",
     "tag": "Rated",
-    "author": "Madisson Yuko",
-    "creators": ["Madisson Yuko"],
+    "author": "Madison Yuko",
+    "creators": ["Madison Yuko"],
     "verifier": "Shroomy",
     "verification": "https://www.youtube.com/watch?v=2wtM1fajXMg",
     "password": "gratis",
     "records": [
+        {
+            "user": "Shroomy",
+            "device": "PC",
+            "time": "09:54.920",
+            "country": "Chile",
+            "link": "https://www.youtube.com/watch?v=2wtM1fajXMg",
+            "hz": 240
+        },
         {
             "user": "AzuRurill184",
             "device": "PC",
