@@ -2,10 +2,27 @@
     "id": 113224510,
     "name": "CaveOfTheScarletSky",
     "tag": "Rated",
-    "author": "Madisson Yuko",
-    "creators": ["Madisson Yuko"],
+    "author": "Madison Yuko",
+    "creators": ["Madison Yuko"],
     "verifier": "npesta",
     "verification": "https://www.youtube.com/watch?v=ZI4zSNOIE7o",
     "password": "gratis",
-    "records": []
+    "records": [
+        {
+            "user": "Shroomy",
+            "device": "PC",
+            "time": "13:21.054",
+            "country": "Chile",
+            "link": "https://www.youtube.com/watch?v=ZI4zSNOIE7o",
+            "hz": 240
+        },
+        {
+            "user": "Bananusa",
+            "device": "PC",
+            "time": "08:33.708",
+            "country": "España",
+            "link": "https://www.youtube.com/watch?v=ctTUR8R-3OU&t",
+            "hz": 360
+        }
+    ]
 }
