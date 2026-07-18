@@ -7,5 +7,14 @@
     "verifier": "Tanuklen",
     "verification": "https://www.youtube.com/watch?v=73660Kd1WHM",
     "password": "gratis",
-    "records": []
+    "records": [
+      {
+            "user": "Bananusa",
+            "device": "PC",
+            "time": "01:07.008",
+            "country": "España",
+            "link": "https://www.youtube.com/watch?v=73660Kd1WHM",
+            "hz": 240
+        }
+    ]
 }
