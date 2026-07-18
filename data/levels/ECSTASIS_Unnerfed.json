@@ -7,5 +7,14 @@
     "verifier": "Viare",
     "verification": "https://www.youtube.com/watch?v=ImR3JBct_tY",
     "password": "gratis",
-    "records": []
+    "records": [
+        {
+            "user": "Lutz",
+            "device": "PC",
+            "time": "31:43.729",
+            "country": "Venezuela",
+            "link": "https://www.youtube.com/watch?v=ImR3JBct_tY",
+            "hz": 240
+        }
+    ]
 }
