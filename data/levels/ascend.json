@@ -7,5 +7,14 @@
     "verifier": "Toboz",
     "verification": "https://www.youtube.com/watch?v=luSBkKPZezI",
     "password": "gratis",
-    "records": []
+    "records": [
+        {
+            "user": "Bananusa",
+            "device": "PC",
+            "time": "01:26.679",
+            "country": "España",
+            "link": "https://www.youtube.com/watch?v=luSBkKPZezI",
+            "hz": 240
+        }
+    ]
 }
