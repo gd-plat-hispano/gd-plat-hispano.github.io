@@ -9,6 +9,14 @@
     "password": "gratos",
     "records": [
         {
+            "user": "DrakXD109",
+            "device": "PC",
+            "time": "08:28.966",
+            "country": "Argentina",
+            "link": "https://www.youtube.com/watch?v=OnheQa8LjaI",
+            "hz": 100
+        }
+        {
             "user": "aitortilla",
             "device": "PC",
             "time": "34:58.670",
