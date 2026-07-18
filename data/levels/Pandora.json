@@ -2,10 +2,19 @@
     "id": 115809824,
     "name": "Pandora",
     "tag": "No rated",
-    "author": "Madisson Yuko",
-    "creators": ["Madisson Yuko"],
+    "author": "Madison Yuko",
+    "creators": ["Madison Yuko"],
     "verifier": "Mikoshi",
     "verification": "https://www.youtube.com/watch?v=HXM6_i_sZ-8",
     "password": "gratis",
-    "records": []
+    "records": [
+        {
+            "user": "Mikoshi",
+            "device": "PC",
+            "time": "01:18.287",
+            "country": "Mexico",
+            "link": "https://www.youtube.com/watch?v=HXM6_i_sZ-8",
+            "hz": 240
+        }
+    ]
 }
