@@ -7,5 +7,14 @@
     "verifier": "GDIris",
     "verification": "https://www.youtube.com/watch?v=Kg4_HeZHK7c",
     "password": "gratis",
-    "records": []
+    "records": [
+        {
+            "user": "AzuRurill",
+            "device": "PC",
+            "time": "23:35:15.633",
+            "country": "Peru",
+            "link": "https://youtu.be/ty6tp5crX5A",
+            "hz": 60
+        }
+    ]
 }
