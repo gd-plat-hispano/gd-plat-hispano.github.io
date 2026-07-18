@@ -9,6 +9,14 @@
     "password": "cgratis",
     "records": [
         {
+            "user": "ungafo",
+            "device": "PC",
+            "time": "02:18.050",
+            "country": "Venezuela",
+            "link": "https://www.youtube.com/watch?v=VsQN1_oo_54",
+            "hz": 144
+        },
+        {
             "user": "Swaam",
             "device": "PC",
             "time": "3:29.899",
