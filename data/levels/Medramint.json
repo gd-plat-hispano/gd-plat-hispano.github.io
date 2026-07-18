@@ -7,5 +7,14 @@
     "verifier": "vLibra",
     "verification": "https://www.youtube.com/watch?v=CkDqCvI6BmY",
     "password": "gratis",
-    "records": []
+    "records": [
+        {
+            "user": "IvanCrafter026",
+            "device": "PC",
+            "time": "01:28.295",
+            "country": "España",
+            "link": "https://www.youtube.com/watch?v=CkDqCvI6BmY",
+            "hz": 240
+        }
+    ]
 }
