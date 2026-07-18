@@ -9,6 +9,14 @@
     "password": "gratis",
     "records": [
         {
+            "user": "Revnotruv",
+            "device": "PC",
+            "time": "14:39.633",
+            "country": "Argentina",
+            "link": "https://www.youtube.com/watch?v=-LP8TLT53rs",
+            "hz": 240
+        },
+        {
             "user": "Pepesito",
             "device": "PC",
             "time": "11:52.520",
