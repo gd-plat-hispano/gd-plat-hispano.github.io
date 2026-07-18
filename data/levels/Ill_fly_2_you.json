@@ -7,5 +7,14 @@
     "verifier": "Artemka_Klutoy",
     "verification": "https://www.youtube.com/watch?v=iT8YmIKO4nU",
     "password": "gratis",
-    "records": []
+    "records": [
+        {
+            "user": "Swaam",
+            "device": "PC",
+            "time": "46:37.847",
+            "country": "Chile",
+            "link": "https://www.youtube.com/watch?v=ZXVyU7Lfuak",
+            "hz": 120
+        }
+    ]
 }
