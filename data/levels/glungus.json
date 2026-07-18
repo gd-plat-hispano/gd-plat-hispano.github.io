@@ -8,7 +8,15 @@
     "verification": "https://www.youtube.com/watch?v=hMJj9uc1lKs",
     "password": "gratis",
     "records": [
-          {
+        {
+            "user": "Shroomy",
+            "device": "PC",
+            "time": "16:21.816",
+            "country": "Chile",
+            "link": "https://www.youtube.com/watch?v=hMJj9uc1lKs",
+            "hz": 240
+        },
+        {
             "user": "Floppa",
             "device": "PC",
             "time": "19:48.719",
