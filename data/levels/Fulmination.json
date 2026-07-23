@@ -7,5 +7,14 @@
     "verifier": "IvanCrafter026",
     "verification": "https://www.youtube.com/watch?v=3DSuufFg8LY",
     "password": "gratis",
-    "records": []
+    "records": [
+        {
+            "user": "IvanCrafter026",
+            "device": "PC",
+            "time": "01:49.316",
+            "country": "España",
+            "link": "https://www.youtube.com/watch?v=3DSuufFg8LY",
+            "hz": 240
+        }
+    ]
 }
