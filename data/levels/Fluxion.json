@@ -1,0 +1,20 @@
+{
+    "id": 117134333,
+    "name": "Fluxion",
+    "tag": "Rated",
+    "author": "Textfiles",
+    "creators": ["Textfiles"],
+    "verifier": "Textfiles",
+    "verification": "https://www.youtube.com/watch?v=LxHhrEc_cPc",
+    "password": "gratis",
+    "records": [
+      {
+            "user": "IvanCrafter026",
+            "device": "PC",
+            "time": "11:00.708",
+            "country": "España",
+            "link": "https://www.youtube.com/watch?v=LxHhrEc_cPc",
+            "hz": 144
+        }
+    ]
+}
