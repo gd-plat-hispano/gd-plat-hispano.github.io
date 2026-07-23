@@ -7,5 +7,14 @@
     "verifier": "Masked SS",
     "verification": "https://www.youtube.com/watch?v=ENg5mdiqVU8",
     "password": "gratis",
-    "records": []
+    "records": [
+        {
+            "user": "IvanCrafter026",
+            "device": "PC",
+            "time": "1:08.670",
+            "country": "España",
+            "link": "https://youtu.be/tmtwoTP5wSU",
+            "hz": 144
+        }
+    ]
 }
