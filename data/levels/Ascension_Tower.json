@@ -7,5 +7,14 @@
     "verifier": "Arouvis",
     "verification": "https://www.youtube.com/watch?v=lHD64iGi9Rw",
     "password": "gratis",
-    "records": []
+    "records": [
+          {
+            "user": "Ezequiel",
+            "device": "PC",
+            "time": "34:55.568",
+            "country": "Peru",
+            "link": "https://www.youtube.com/watch?v=_Twfu_j8uGI",
+            "hz": 240
+        }
+    ]
 }
