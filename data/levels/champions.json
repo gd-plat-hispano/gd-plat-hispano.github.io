@@ -7,5 +7,14 @@
     "verifier": "Thearmyants",
     "verification": "https://www.youtube.com/watch?v=9LlhW00XcKA",
     "password": "gratis",
-    "records": []
+    "records": [
+        {
+            "user": "IvanCrafter026",
+            "device": "PC",
+            "time": "2:41:54.376",
+            "country": "España",
+            "link": "https://youtu.be/9LlhW00XcKA",
+            "hz": 144
+        }
+    ]
 }
