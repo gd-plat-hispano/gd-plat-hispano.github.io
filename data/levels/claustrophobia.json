@@ -15,6 +15,14 @@
             "country": "Argentina",
             "link": "https://www.youtube.com/watch?v=v969pN0K1hc",
             "hz": 67
+        },
+        {
+            "user": "Ezequiel",
+            "device": "PC",
+            "time": "07:04:23.989",
+            "country": "Peru",
+            "link": "https://www.youtube.com/watch?v=pdUd6k91-WM",
+            "hz": 240
         }
     ]
 }
