@@ -7,5 +7,14 @@
     "verifier": "ungafo",
     "verification": "https://www.youtube.com/watch?v=lu5Zme0klGw",
     "password": "gratis",
-    "records": []
+    "records": [
+         {
+            "user": "Ezequiel",
+            "device": "PC",
+            "time": "2:01.987",
+            "country": "Peru",
+            "link": "https://www.youtube.com/watch?v=Dgho2vvXoZk",
+            "hz": 240
+        }
+    ]
 }
