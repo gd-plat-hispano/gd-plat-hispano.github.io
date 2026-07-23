@@ -23,6 +23,14 @@
             "country": "Mexico",
             "link": "https://youtu.be/xAv2U1Wj9GI?si=enLzxaST3JERJwsD",
             "hz": 240
+          },
+          {
+            "user": "Ezequiel",
+            "device": "PC",
+            "time": "01:15.895",
+            "country": "Peru",
+            "link": "https://www.youtube.com/watch?v=EZKtbMAgon0",
+            "hz": 240
         }
     ]
 }
