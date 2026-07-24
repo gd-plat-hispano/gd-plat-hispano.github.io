@@ -7,5 +7,14 @@
     "verifier": "theFurret",
     "verification": "https://youtu.be/di5xQ8RyPgA?si=VT23IrdpsAcebhQy",
     "password": "gratis",
-    "records": []
+    "records": [
+        {
+            "user": "IvanCrafter026",
+            "device": "PC",
+            "time": "6:31:21.422",
+            "country": "España",
+            "link": "https://youtu.be/LC1wDsLHNKg",
+            "hz": 144
+        }
+    ]
 }
