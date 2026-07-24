@@ -8,13 +8,21 @@
     "verification": "https://www.youtube.com/watch?v=lHD64iGi9Rw",
     "password": "gratis",
     "records": [
-          {
+        {
             "user": "Ezequiel",
             "device": "PC",
             "time": "34:55.568",
             "country": "Peru",
             "link": "https://www.youtube.com/watch?v=_Twfu_j8uGI",
             "hz": 240
+        },
+        {
+            "user": "IvanCrafter026",
+            "device": "PC",
+            "time": "1:47:19.962",
+            "country": "España",
+            "link": "https://youtu.be/FZQhnMEAXdM",
+            "hz": 144
         }
     ]
 }
