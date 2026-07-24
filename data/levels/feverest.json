@@ -7,5 +7,14 @@
     "verifier": "Cucu",
     "verification": "https://www.youtube.com/watch?v=JF9AQKigx58",
     "password": "gratis",
-    "records": []
+    "records": [
+        {
+            "user": "IvanCrafter026",
+            "device": "PC",
+            "time": "2:43.491",
+            "country": "España",
+            "link": "https://youtu.be/3AEfnXXEzmA",
+            "hz": 144
+        }
+    ]
 }
