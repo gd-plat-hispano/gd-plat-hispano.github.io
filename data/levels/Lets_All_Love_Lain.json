@@ -7,5 +7,14 @@
     "verifier": "panap",
     "verification": "https://www.youtube.com/watch?v=mN_dD_YhBvI",
     "password": "gratis",
-    "records": []
+    "records": [
+        {
+            "user": "IvanCrafter026",
+            "device": "PC",
+            "time": "2:18.308",
+            "country": "España",
+            "link": "https://youtu.be/wokCf3oN8ds",
+            "hz": 144      
+        }
+    ]
 }
