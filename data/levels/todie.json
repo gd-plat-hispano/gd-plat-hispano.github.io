@@ -1,0 +1,20 @@
+{
+    "id": 131044852,
+    "name": "ToDIE",
+    "tag": "Rated",
+    "author": "paga2000",
+    "creators": ["paga2000"],
+    "verifier": "thearmyants",
+    "verification": "https://www.youtube.com/watch?v=aQRNw6oO180",
+    "password": "gratis",
+    "records": [
+        {
+            "user": "Shroomy",
+            "device": "PC",
+            "time": "7:59.012",
+            "country": "Venezuela",
+            "link": "https://www.youtube.com/watch?v=aQRNw6oO180",
+            "hz": 60
+        }
+    ]
+}
