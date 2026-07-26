@@ -23,6 +23,14 @@
             "country": "Mexico",
             "link": "https://www.youtube.com/watch?v=ifcr0Jki3rk",
             "hz": 240
+        },
+        {
+            "user": "IvanCrafter026",
+            "device": "PC",
+            "time": "07:28:24.917",
+            "country": "España",
+            "link": "https://youtu.be/r0-oXq5OAfA",
+            "hz": 144      
         }
     ]
 }
