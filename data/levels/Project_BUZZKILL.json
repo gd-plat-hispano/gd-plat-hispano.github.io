@@ -31,6 +31,14 @@
             "country": "Peru",
             "link": "https://www.youtube.com/watch?v=8MMehMWCfCo",
             "hz": 240
+        },
+        {
+            "user": "IvanCrafter026",
+            "device": "PC",
+            "time": "5:47.466",
+            "country": "España",
+            "link": "https://youtu.be/tKszTKpnElg",
+            "hz": 144      
         }
     ]
 }
