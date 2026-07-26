@@ -23,6 +23,14 @@
             "country": "España",
             "link": "https://youtu.be/SjedyrcfLqM",
             "hz": 144      
+        },
+        {
+            "user": "Floppa",
+            "device": "PC",
+            "time": "43.737",
+            "country": "Mexico",
+            "link": "https://www.youtube.com/watch?v=jP3eKOfU-jg",
+            "hz": 60
         }
     ]
 }
