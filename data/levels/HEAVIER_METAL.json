@@ -15,6 +15,14 @@
             "country": "Chile",
             "link": "https://www.youtube.com/watch?v=fJanLYObOwU",
             "hz": 240
+        },
+        {
+            "user": "IvanCrafter026",
+            "device": "PC",
+            "time": "04:18:21.550",
+            "country": "España",
+            "link": "https://youtu.be/ACHiDoQXuK0",
+            "hz": 144      
         }
     ]
 }
