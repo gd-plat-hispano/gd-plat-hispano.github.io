@@ -15,6 +15,22 @@
             "country": "Mexico",
             "link": "https://www.youtube.com/watch?v=Ie8P8yCBUAc",
             "hz": 240
+        },
+        {
+            "user": "Shroomy",
+            "device": "PC",
+            "time": "20:54:36.270",
+            "country": "Chile",
+            "link": "https://www.youtube.com/watch?v=pY62GWFWKIo",
+            "hz": 360
+        },
+        {
+            "user": "Krinsi",
+            "device": "PC",
+            "time": "40:08:29.320",
+            "country": "Venezuela",
+            "link": "https://www.youtube.com/watch?v=yiPZp6dALkM&t",
+            "hz": 60
         }
     ]
 }
