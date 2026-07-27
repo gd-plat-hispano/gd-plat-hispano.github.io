@@ -15,6 +15,14 @@
             "country": "España",
             "link": "https://www.youtube.com/watch?v=73660Kd1WHM",
             "hz": 240
+        },
+        {
+            "user": "Shroomy",
+            "device": "PC",
+            "time": "08:40.258",
+            "country": "Chile",
+            "link": "https://www.youtube.com/watch?v=Z73fw1Hyhxo",
+            "hz": 360
         }
     ]
 }
