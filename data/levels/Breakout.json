@@ -23,6 +23,14 @@
             "country": "Venezuela",
             "link": "https://www.youtube.com/watch?v=5Q90xcThc6s",
             "hz": 360
+        },
+        {
+            "user": "Shroomy",
+            "device": "PC",
+            "time": "06:33.058",
+            "country": "Chile",
+            "link": "https://www.youtube.com/live/zSWn_OFwFWs?t=848s",
+            "hz": 360
         }
     ]
 }
