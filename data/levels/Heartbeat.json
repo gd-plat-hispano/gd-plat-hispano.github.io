@@ -31,6 +31,14 @@
             "country": "Peru",
             "link": "https://www.youtube.com/watch?v=EZKtbMAgon0",
             "hz": 240
+        },
+        {
+            "user": "Roblox109",
+            "device": "PC",
+            "time": "1:15.981",
+            "country": "Mexico",
+            "link": "https://youtu.be/yUw6_SNosqg",
+            "hz": 75      
         }
     ]
 }
