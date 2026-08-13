@@ -39,6 +39,14 @@
             "country": "Mexico",
             "link": "https://www.youtube.com/watch?v=vLcBq_2a6mA",
             "hz": 60
+        },
+        {
+            "user": "Glad735",
+            "device": "PC",
+            "time": "05:14.762",
+            "country": "Mexico",
+            "link": "https://youtu.be/OtXexPPZLrI",
+            "hz": 240
         }
     ]
 }
