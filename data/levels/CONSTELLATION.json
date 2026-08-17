@@ -1,1 +1,20 @@
-
+{
+    "id": 130251610,
+    "name": "CONSTELLATION",
+    "tag": "No Rated",
+    "author": "ColorSSS",
+    "creators": ["ColorSSS"],
+    "verifier": "IvanCrafter026",
+    "verification": "https://www.youtube.com/watch?v=xchetQj4jm4",
+    "password": "gratis",
+    "records": [
+        {
+            "user": "IvanCrafter026",
+            "device": "PC",
+            "time": "09:41.854",
+            "country": "España",
+            "link": "https://www.youtube.com/watch?v=xchetQj4jm4",
+            "hz": 360
+        }
+    ]
+}
