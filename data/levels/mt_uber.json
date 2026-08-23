@@ -1,0 +1,20 @@
+{
+    "id": 123260275,
+    "name": "MT UBER",
+    "tag": "Rated",
+    "author": "Thearmyants",
+    "creators": ["Thearmyants"],
+    "verifier": "Thearmyants",
+    "verification": "https://www.youtube.com/watch?v=JkerRjUlVXA",
+    "password": "gratis",
+    "records": [
+        {
+            "user": "IvanCrafter026",
+            "device": "PC",
+            "time": "06:02.250",
+            "country": "Esoaña",
+            "link": "https://www.youtube.com/watch?v=JkerRjUlVXA",
+            "hz": 144
+        }
+    ]
+}
