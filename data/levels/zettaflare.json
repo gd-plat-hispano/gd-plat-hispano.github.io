@@ -1,0 +1,20 @@
+{
+    "id": 130019793,
+    "name": "zettaflare",
+    "tag": "Rated",
+    "author": "zaroren",
+    "creators": ["zaroren"],
+    "verifier": "ReJoi",
+    "verification": "https://www.youtube.com/watch?v=KAZFFUONqD8",
+    "password": "gratis",
+    "records": [
+        {
+            "user": "IvanCrafter026",
+            "device": "PC",
+            "time": "03:23.820",
+            "country": "España",
+            "link": "https://www.youtube.com/watch?v=KAZFFUONqD8",
+            "hz": 144
+        }
+    ]
+}
