@@ -23,6 +23,14 @@
             "country": "España",
             "link": "https://youtu.be/FZQhnMEAXdM",
             "hz": 144
+        },
+        {
+            "user": "Krinsi",
+            "device": "PC",
+            "time": "01:32:59.333",
+            "country": "Venezuela",
+            "link": "https://www.youtube.com/watch?v=iQs3M7X2OtA",
+            "hz": 60
         }
     ]
 }
