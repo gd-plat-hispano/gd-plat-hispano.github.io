@@ -11,7 +11,7 @@
         {
             "user": "IvanCrafter026",
             "device": "PC",
-            "time": "6:31:21.422",
+            "time": "06:31:21.422",
             "country": "España",
             "link": "https://youtu.be/LC1wDsLHNKg",
             "hz": 144
@@ -22,7 +22,15 @@
             "time": "01:21:45.967",
             "country": "Mexico",
             "link": "https://www.youtube.com/watch?v=1pOnElZyE4o",
-            "hz": 75      
+            "hz": 75
+        },
+        {
+            "user": "Krinsi",
+            "device": "PC",
+            "time": "01:54:47.197",
+            "country": "Venezuela",
+            "link": "https://www.youtube.com/watch?v=0Zj_M956n2U",
+            "hz": 60
         }
     ]
 }
