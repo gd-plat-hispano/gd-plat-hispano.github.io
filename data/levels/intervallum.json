@@ -27,7 +27,7 @@
         {
             "user": "Landres",
             "device": "PC",
-            "time": "1:04.895",
+            "time": "01:04.895",
             "country": "Mexico",
             "link": "https://youtu.be/Kip1SudUYJ0?si=PiPyYkDsyUnNIPMx",
             "hz": 240
@@ -43,7 +43,7 @@
         {
             "user": "IvanCrafter026",
             "device": "PC",
-            "time": "1:01.470",
+            "time": "01:01.470",
             "country": "España",
             "link": "https://youtu.be/GZOapreEAH0",
             "hz": 144
@@ -51,10 +51,18 @@
         {
             "user": "Roblox109",
             "device": "PC",
-            "time": "1:11.170",
+            "time": "01:11.170",
             "country": "Mexico",
             "link": "https://youtu.be/DNUcgcMUvQo",
-            "hz": 75      
+            "hz": 75
+        },
+        {
+            "user": "Krinsi",
+            "device": "PC",
+            "time": "01:08.641",
+            "country": "Venezuela",
+            "link": "https://www.youtube.com/watch?v=uaqybYMFXfc&t",
+            "hz": 60
         }
     ]
 }
