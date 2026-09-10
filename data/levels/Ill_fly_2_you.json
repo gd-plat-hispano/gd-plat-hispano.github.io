@@ -31,6 +31,14 @@
             "country": "Peru",
             "link": "https://www.youtube.com/watch?v=5MGD8RexGIY",
             "hz": 240
+        },
+        {
+            "user": "Krinsi",
+            "device": "PC",
+            "time": "1:10:57.383",
+            "country": "Venezuela",
+            "link": "https://www.youtube.com/watch?v=5MGD8RexGIY",
+            "hz": 60
         }
     ]
 }
