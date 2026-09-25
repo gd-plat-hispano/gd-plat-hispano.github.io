@@ -8,6 +8,13 @@
     "verification": "https://www.youtube.com/watch?v=Pxf5NE3bPvc",
     "password": "gratis",
     "records": [
-      
+        {
+            "user": "Shroomy",
+            "device": "PC",
+            "time": "10:58.987",
+            "country": "Chile",
+            "link": "https://www.youtube.com/watch?v=Pxf5NE3bPvc",
+            "hz": 240
+        }
     ]
 }
